@@ -12,7 +12,7 @@ since this was a beginners challenge i didnt run inot that much problems
 
 ##Live Site URL 
 
-Website 
+Website https://alazarg19.github.io/qr-code-component/
 
 
 ##My process 
@@ -28,6 +28,6 @@ flexbox
 ##What i learned   
 
 ## Author 
-Website   @AlazarG19 
+Website https://alazarg19.github.io/qr-code-component/  @AlazarG19 
 
 ## Acknowledgments 
