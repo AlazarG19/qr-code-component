@@ -16,7 +16,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background : var(--lightgray)
+    background : var(--lightgray);
+    transform: scale(1.1)
 }
 .container{
     width: 300px;
