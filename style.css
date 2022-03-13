@@ -17,6 +17,9 @@ body{
     justify-content: center;
     align-items: center;
     background : var(--lightgray);
+    
+}
+main{
     transform: scale(1.1)
 }
 .container{
