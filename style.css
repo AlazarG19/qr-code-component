@@ -21,9 +21,9 @@ body{
 .container{
     width: 300px;
     background: white;
-    height: 70vh;
+    height: 450px;
     border-radius: 15px;
-}
+    box-shadow: 0 19px 20px 0px rgb(0 0 0 / 11%);}
 .container>img{
     width: 270px;
     margin: 15px 15px 15px 15px;
